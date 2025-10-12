@@ -9,3 +9,6 @@
 
 - [Awards](/awards)
     - [XorChamp](/awards/XorChamp%20-%20Sunny%20Dodti.pdf) - Xoriant, 2025
+
+- Projects - [github.com/sunnydodti/](https://github.com/sunnydodti/)
+- Portfolio - [sunny.persist.site/](https://sunny.persist.site/)
